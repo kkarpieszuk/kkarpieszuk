@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+You may know me from my main work:
+- [WC Price History](https://github.com/kkarpieszuk/wc-price-history) - free WordPress/WooCommerce plugin to track and display lowest price in the last 30 days.
+- [WPZlecenia](https://wpzlecenia.pl) - Polish Job Board for WordPress Freelancers
+
+ 
+
 <!--
 **kkarpieszuk/kkarpieszuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
